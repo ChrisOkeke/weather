@@ -1,6 +1,8 @@
 file_path.py
-weather_data.py
-# weather.20160201.csv
-# weather.20160301.csv
-weather.db
-weather_df_pq.parquet
+weather_df_pq.parquet.gzip
+mini_pycallgraph.png
+node_modules/
+bin/
+.env sample
+pyvenv.cfg
+__pycache__/
